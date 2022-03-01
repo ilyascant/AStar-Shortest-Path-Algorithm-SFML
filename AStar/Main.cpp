@@ -155,7 +155,7 @@ public:
 
 		int W = 800;
 		int H = 800;
-		sf::RenderWindow window(sf::VideoMode(W, H), "A* Shortest Path Algorithm");
+		sf::RenderWindow window(sf::VideoMode(W, H), "A* Shortest Path Algorithm", sf::Style::Close | sf::Style::Titlebar);
 		window.setKeyRepeatEnabled(false);
 
 		float colNodeSize = window.getSize().x / nMapWidth;

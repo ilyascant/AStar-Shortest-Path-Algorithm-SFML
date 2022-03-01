@@ -103,7 +103,3 @@ C:\Users\Ilyas\Desktop\Calismalar\C & C++\AStar\AStar\Main.cpp(303,84): warning 
               T=float
           ]
   AStar.vcxproj -> C:\Users\Ilyas\Desktop\Calismalar\C & C++\AStar\x64\Debug\AStar.exe
-C:\Users\Ilyas\Desktop\Calismalar\C & C++\AStar\AStar\Main.cpp(24): warning C26495: Variable 'AStarPathFinding::Node::y' is uninitialized. Always initialize a member variable (type.6).
-C:\Users\Ilyas\Desktop\Calismalar\C & C++\AStar\AStar\Main.cpp(40): warning C6386: Buffer overrun while writing to 'nodes'.
-C:\Users\Ilyas\Desktop\Calismalar\C & C++\AStar\AStar\Main.cpp(56): warning C6385: Reading invalid data from 'nodes'.
-C:\Users\Ilyas\Desktop\Calismalar\C & C++\AStar\AStar\Main.cpp(36): warning C26451: Arithmetic overflow: Using operator '*' on a 4 byte value and then casting the result to a 8 byte value. Cast the value to the wider type before calling operator '*' to avoid overflow (io.2).
