@@ -1,0 +1,109 @@
+﻿  Main.cpp
+C:\Users\Ilyas\Desktop\Calismalar\C & C++\AStar\AStar\Main.cpp(98,47): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Ilyas\Desktop\Calismalar\C & C++\AStar\AStar\Main.cpp(161,21): warning C4244: 'initializing': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+C:\Users\Ilyas\Desktop\Calismalar\C & C++\AStar\AStar\Main.cpp(162,21): warning C4244: 'initializing': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+C:\Users\Ilyas\Desktop\Calismalar\C & C++\AStar\AStar\Main.cpp(165,87): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\Ilyas\Desktop\Calismalar\C & C++\AStar\AStar\Main.cpp(165,53): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\Ilyas\Desktop\Calismalar\C & C++\AStar\AStar\Main.cpp(175,22): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\Ilyas\Desktop\Calismalar\C & C++\AStar\AStar\Main.cpp(176,22): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\Ilyas\Desktop\Calismalar\C & C++\AStar\AStar\Main.cpp(239,109): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\Ilyas\Desktop\Calismalar\C & C++\AStar\AStar\Main.cpp(240,109): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\Ilyas\Desktop\Calismalar\C & C++\AStar\AStar\Main.cpp(241,115): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\Ilyas\Desktop\Calismalar\C & C++\AStar\AStar\Main.cpp(242,115): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\Ilyas\Desktop\Calismalar\C & C++\AStar\AStar\Main.cpp(245,74): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\Ilyas\Desktop\Calismalar\C & C++\AStar\AStar\Main.cpp(246,74): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\Ilyas\Desktop\Calismalar\C & C++\AStar\AStar\Main.cpp(247,77): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\Ilyas\Desktop\Calismalar\C & C++\AStar\AStar\Main.cpp(248,77): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\Ilyas\Desktop\Calismalar\C & C++\AStar\AStar\Main.cpp(294,114): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\Ilyas\Desktop\Calismalar\C & C++\AStar\AStar\Main.cpp(295,114): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\Ilyas\Desktop\Calismalar\C & C++\AStar\AStar\Main.cpp(296,130): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\Ilyas\Desktop\Calismalar\C & C++\AStar\AStar\Main.cpp(297,130): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\Ilyas\Desktop\Calismalar\C & C++\AStar\AStar\Main.cpp(300,76): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\Ilyas\Desktop\Calismalar\C & C++\AStar\AStar\Main.cpp(301,76): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\Ilyas\Desktop\Calismalar\C & C++\AStar\AStar\Main.cpp(302,84): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\Ilyas\Desktop\Calismalar\C & C++\AStar\AStar\Main.cpp(303,84): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+  AStar.vcxproj -> C:\Users\Ilyas\Desktop\Calismalar\C & C++\AStar\x64\Debug\AStar.exe
+C:\Users\Ilyas\Desktop\Calismalar\C & C++\AStar\AStar\Main.cpp(24): warning C26495: Variable 'AStarPathFinding::Node::y' is uninitialized. Always initialize a member variable (type.6).
+C:\Users\Ilyas\Desktop\Calismalar\C & C++\AStar\AStar\Main.cpp(40): warning C6386: Buffer overrun while writing to 'nodes'.
+C:\Users\Ilyas\Desktop\Calismalar\C & C++\AStar\AStar\Main.cpp(56): warning C6385: Reading invalid data from 'nodes'.
+C:\Users\Ilyas\Desktop\Calismalar\C & C++\AStar\AStar\Main.cpp(36): warning C26451: Arithmetic overflow: Using operator '*' on a 4 byte value and then casting the result to a 8 byte value. Cast the value to the wider type before calling operator '*' to avoid overflow (io.2).

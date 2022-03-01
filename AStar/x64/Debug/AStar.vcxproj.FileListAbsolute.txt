@@ -1,0 +1,2 @@
+C:\Users\Ilyas\Desktop\Calismalar\C & C++\AStar\x64\Debug\AStar.exe.lastcodeanalysissucceeded
+C:\Users\Ilyas\Desktop\Calismalar\C & C++\AStar\AStar\x64\Debug\NativeCodeAnalysis.read.1.tlog
