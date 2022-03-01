@@ -1,1 +1,3 @@
-##This program uses SFML as Dependencies
+### This program uses SFML
+
+![AStar GIF](https://gfycat.com/ifr/RichDesertedHornet)
