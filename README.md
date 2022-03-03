@@ -1,6 +1,6 @@
 ## This program uses SFML
 
-![2022-02-28 11-11-10_4 (1)](https://i.giphy.com/media/ix7ESSh9N8qMGPyNwQ/giphy.webp)
+![A star](https://user-images.githubusercontent.com/79863003/156578195-f0feea9e-bbc7-4289-ae79-b85bdf3d7821.gif)
 
 ### LSHIFT - Change position of start point.
 ### LCONTROL - Change position of end point.
@@ -8,4 +8,5 @@
 ### MOUSE 2 - Remove obstacles.
 ### F + MOUSE 1 =  - Add blocks of obstacles.
 ### F + MOUSE 2 =  - Remove blocks of obstacles.
+
 
