@@ -6,7 +6,7 @@
 ### LCONTROL - Change position of end point.
 ### MOUSE 1 - Add obstacles.
 ### MOUSE 2 - Remove obstacles.
-### F + MOUSE 1 =  - Add blocks of obstacles.
-### F + MOUSE 2 =  - Remove blocks of obstacles.
+### F + MOUSE 1 - Add blocks of obstacles.
+### F + MOUSE 2 - Remove blocks of obstacles.
 
 
