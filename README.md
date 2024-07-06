@@ -9,4 +9,6 @@
 ### F + MOUSE 1 - Add blocks of obstacles.
 ### F + MOUSE 2 - Remove blocks of obstacles.
 
+<img src="https://t.bkit.co/w_6688c8f949f75.gif" />
+
 
